@@ -16,6 +16,9 @@ public class C {
 			else
 				high = middle - 1; // 8
 		}
-		return -1; // 9
+		return 1; // 9
 	} // 10
+	static int returnOne() {
+		return 1;
+	}
 }
