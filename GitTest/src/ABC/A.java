@@ -8,13 +8,6 @@ public class A {
 			return b; // 노드3
 	} // 노드4
 
-	public static int abs(int a) {
-		if (a >= 0)
-			return a;
-		else
-			return -a;
-	}
-
 	public static int median(int a, int b, int c) {
 		if (a <= b) { // 1
 			if (b <= c) // 2
