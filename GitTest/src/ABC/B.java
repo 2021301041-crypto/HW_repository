@@ -38,4 +38,8 @@ public class B {
 		else
 			return false;
 	}
+
+	static int returnTwo() {
+		return 2;
+	}
 }
